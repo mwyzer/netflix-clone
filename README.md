@@ -68,4 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# netflic-clone
+# netflix-clone
+
+
+Deployments to https://netflix-clone-73b87.web.app/
+
+###Install Firebase CLI
+Get to https://firebase.google.com/docs/cli#macos (depends on your OS)
+Use firebase login for login and setup in CLI
+firebase deploy for deployment to firebase.
+
+### Add Future Components
+Add Search Bar, wish I can.
+
